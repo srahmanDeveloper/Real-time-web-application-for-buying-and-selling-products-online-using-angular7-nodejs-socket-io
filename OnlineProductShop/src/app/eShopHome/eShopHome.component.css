@@ -1,0 +1,51 @@
+    p,h1,h2,h3 {
+
+      color: #663399;
+    }
+    h4{
+
+      color: #663399;
+
+    }
+    .listIconOkay{
+
+      margin-top: 15px;
+      font-size:15px;
+      color:#663399;
+      display:block;
+    }
+
+    .imageMaxHeight{
+
+      max-height: 15em;
+    }
+
+    .textUnderLine {
+      text-decoration: underline;
+      cursor: pointer;
+    }
+
+    .floatingImageDimension{
+
+      max-width: 15em;
+    }
+
+    .sectionGap{
+      margin-top: 5em;
+    }
+    .floatingImage{
+
+      position: relative;
+      left:10%;
+      
+    }
+
+    .button {
+
+    	background-color: #663399;
+    }
+
+    @media screen and (min-width: 280px) and (max-width:800px) {
+  		
+  		.floatingImage {top:-5em;}
+	}

@@ -1,0 +1,13 @@
+@media (min-width: 768px) {
+  .navbar-nav {
+    position: relative;
+    left: 60%;
+        
+  }
+}
+
+.linkTextColor{
+
+	color: #ffffff !important;
+	font-size: 18px;
+}
